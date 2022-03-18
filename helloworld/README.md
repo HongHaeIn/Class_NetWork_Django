@@ -11,3 +11,5 @@
 3. playground/views
    1. say_hello()
 
+4. urls
+   1. playground/hello/ -> say_hello()
